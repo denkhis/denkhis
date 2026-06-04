@@ -1,7 +1,5 @@
-# Hi, I'm Denis 👋
+# Hi, I'm Denis Khisamiev 👋
 
-Software developer interested in <!-- e.g. web, AI, systems -->.
-
-- 🔭 Currently working on <!-- project / focus -->
-- 🌱 Learning <!-- what you're learning -->
-- 📫 Reach me: denis.khisamiev@salote.ch
+- ✈️ I'm `Frontend Developer` at Aviasales | Ex-Ozon Tech
+- 💙 Writing on `Typescript`
+- 🥇 Passionate about web performance, security, and modern standards
